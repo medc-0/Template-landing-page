@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="24" fill="#0A0A0B"/>
+  <g filter="url(#glow)">
+    <path d="M28 86c0-24 18-44 40-44 14 0 22 8 22 18 0 10-8 18-18 18h-18c-4 0-8 4-8 8 0 6-8 6-8 0z" fill="#2F74FF"/>
+    <path d="M50 44c0-6 6-12 14-12 12 0 22 10 22 22 0 6-6 12-12 12-10 0-12-8-12-12 0-4-4-10-12-10z" fill="#9B8CFF"/>
+  </g>
+  <defs>
+    <filter id="glow" x="0" y="0" width="128" height="128" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+    </filter>
+  </defs>
+</svg>
+
+
